@@ -3,10 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
+    background-color: #121212;
 }
 
 .navbar{
-    background-color: #121212;
+    background-color: #121212 !important;
 }
 
 .navbar-nav{
