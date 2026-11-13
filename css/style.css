@@ -25,3 +25,15 @@
     transition: all linear;
 
 }
+.navbtn{
+    padding: 12px,40px;
+    background: linear-gradient(90deg, #fd600f 0%, #e46400 100%);
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 16px;
+}
+#bannerpart{
+    background-color: #121212;
+    padding-top: 130px;
+}
